@@ -44,7 +44,7 @@ namespace Checkfront;
  * @access public
  * @package Checkfront
 */
-class CheckfrontApi {
+class Checkfront {
 
 	protected $sdk_version = '1.3';
 	protected $api_version = '3.0';
