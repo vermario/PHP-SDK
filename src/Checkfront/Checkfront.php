@@ -38,11 +38,13 @@
  */
 
 
+namespace Checkfront;
+
 /*
  * @access public
  * @package Checkfront
 */
-class CheckfrontAPI {
+class CheckfrontApi {
 
 	protected $sdk_version = '1.3';
 	protected $api_version = '3.0';
@@ -436,4 +438,3 @@ class CheckfrontAPI {
 		$this->session_id = 0; 
 	}
 }
-?>

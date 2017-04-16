@@ -1,0 +1,9 @@
+{
+    "name": "vermario/checkfront-php-sdk",
+    "description": "Fork of the official checkfront php sdk to be used in composer php projects",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Checkfront\\": "src/Checkfront"}
+    }
+}

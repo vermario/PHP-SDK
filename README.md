@@ -1,6 +1,15 @@
 Checkfront PHP SDK (v3.0)
 ==========================
 
+This forked version is meant to add composer support, to more easily include this library
+in a drupal8 module or other modern php application.
+
+I have removed the examples folder.
+
+
+
+
+
 The [Checkfront Booking API](http://www.checkfront.com/developers/api/) allows you 
 to build integrations and custom applications that interact with a remote Checkfront account.
 
@@ -32,7 +41,7 @@ The Checkfront API SDK provides the following functionality:
 Usage
 -----
 
-The examples are a good place to start. The minimal you'll need to
+The minimal you'll need to
 have is:
 
 ```php
